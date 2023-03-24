@@ -1,4 +1,4 @@
-# RETO TAPPX INDIVIDUAL - SERSANCH (SERGIO SANCHEZ ZAHINOS)
+# RETO TAPPX INDIVIDUAL - SERSANCH (SERGIO SANCHEZ ZAHIÑOS)
 ## Pasos seguidos para la clasificación de mensajes:
 1. Lectura de CSV
 2. Transformación de CSV a dataframe (DF, utilizando pandas)
